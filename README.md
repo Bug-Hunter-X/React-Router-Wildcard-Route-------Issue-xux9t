@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with React Router's wildcard route ('*'). The wildcard route is intended to catch any unmatched paths, but if placed incorrectly, it can prevent other routes from working, always leading to the 404 page being displayed.  The solution demonstrates how to correctly order routes to avoid this.
